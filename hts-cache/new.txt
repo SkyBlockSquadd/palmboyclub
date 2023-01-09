@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:23:00	134/134	---M--	200	added ('OK')	text/plain	etag:%22635b8210-86%22	https://matias.ma/robots.txt		(from )
+20:23:00	738/738	---M-Z	200	added ('OK')	text/html	etag:W/%225dc47920-2e2%22	https://matias.ma/nsfw/	C:/Meine%20Webseiten/hjkhl/matias.ma/nsfw/index.html	(from )
+20:23:00	820/820	---M-Z	200	added ('OK')	text/css	etag:W/%225dc47920-334%22	https://matias.ma/nsfw/reset.6b91d48b.css	C:/Meine%20Webseiten/hjkhl/matias.ma/nsfw/reset.6b91d48b.css	(from https://matias.ma/nsfw/)
+20:23:01	1078/1078	---M-Z	200	added ('OK')	text/css	etag:W/%225dc47920-436%22	https://matias.ma/nsfw/style.e5beaf9c.css	C:/Meine%20Webseiten/hjkhl/matias.ma/nsfw/style.e5beaf9c.css	(from https://matias.ma/nsfw/)
+20:23:01	10710/10710	---M-Z	200	added ('OK')	application/javascript	etag:W/%225dc47920-29d6%22	https://matias.ma/nsfw/workspace.a4362daf.js	C:/Meine%20Webseiten/hjkhl/matias.ma/nsfw/workspace.a4362daf.js	(from https://matias.ma/nsfw/)
+20:23:02	4098382/4098382	---M--	200	added ('OK')	audio/mp3	etag:%225dc47920-3e894e%22	https://matias.ma/nsfw/konga.92cb31af.mp3	C:/Meine%20Webseiten/hjkhl/matias.ma/nsfw/konga.92cb31af.mp3	(from https://matias.ma/nsfw/)
